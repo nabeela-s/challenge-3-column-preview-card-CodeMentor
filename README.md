@@ -32,4 +32,4 @@ Users should be able to:
 
 ### What I learned
 
-I got to pracice CSS grid layout. Used that to make a responsive layout.
+I got to pracice CSS grid layout. Used media query to make a responsive layout.
