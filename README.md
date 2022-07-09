@@ -14,13 +14,13 @@ Users should be able to:
 
 ### Screenshots
 
-![](images/screen-shot-desktop.png.jpg)
+![](images/screen-shot-desktop.png)
 ![](images/screenshot-mobile.png)
 
 ### Links
 
-- Solution URL: (https://github.com/nabeela-s/challenge-3-column-preview-card-CodeMentor.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/nabeela-s/challenge-3-column-preview-card-CodeMentor.git
+- Live Site URL: https://tranquil-dragon-38adde.netlify.app/)
 
 ## My process
 
